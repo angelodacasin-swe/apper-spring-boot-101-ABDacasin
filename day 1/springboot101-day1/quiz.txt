@@ -1,0 +1,24 @@
+
+Spring Boot Day 1 (Quiz 1) - Angelo B. Dacasin
+
+1. Java "Enterprise" Edition
+
+2. A boilerplate code is a repetitive code (paulit-ulit) throughout the programming software.
+An example is the getter and setter which is quite repetitive when we look at it.
+
+3. QUESTION: The underlying or foundational project of Spring Boot. ANSWER: "Spring" Framework
+
+4. "Pivotal" Software
+
+5. https://start.spring.io/
+
+6. When we say it is "STANDALONE", it means that we do not need web servers for it.
+
+Numbers 7 to 9. What is dependency injection?
+7. Dependency injection helps you save on memory use by helping in supplying a resource by just a piece of code instead by creating a lot of lines (long code).
+
+8. Dependency injection since it simplifies things and make it shorter, it helps in flexibility and simplified maintenance.
+
+9. Dependency injection helps achieve the goal of "microservices" wherein things are "loosely coupled" since there is boilerplate code reduction which helps in separation of concerns therefore easier maintenance.
+
+10. QUESTION: Run Spring Boot via terminal. ANSWER: mvn spring-boot:run

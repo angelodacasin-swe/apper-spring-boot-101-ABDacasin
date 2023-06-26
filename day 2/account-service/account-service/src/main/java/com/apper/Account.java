@@ -6,9 +6,9 @@ import java.time.LocalDateTime;
 
 @Data
 public class Account {
+
     private String id;
     private Double balance;
-
     private String firstName;
     private String lastName;
     private String username;
@@ -17,4 +17,5 @@ public class Account {
 
     private LocalDateTime creationDate;
     private LocalDateTime lastUpdated;
+
 }

@@ -1,9 +1,11 @@
 Spring Boot Notes for Day 2 has been integrated with Lab 1 submission: 
 https://github.com/angelodacasin-swe/apper-spring-boot-101-ABDacasin/tree/main/day%202/account-service/account-service/src/main/java/com/apper
 
+
 Additional Notes from readings:
 nextID() -- commonly used a placeholder of values
 @PathVariable annotation is used in Spring MVC (Model-View-Controller) applications to extract values from the URI template
+
 
 @RestController
 @RequestMapping("/users")
@@ -14,3 +16,9 @@ public class UserController {
         // continue ...
     }
 }
+
+REMEMBER!!
+
+CHECK on POSTMAN
+
+POST - GET - DELETE - GET ALL - PUT 
